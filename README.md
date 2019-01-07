@@ -14,6 +14,20 @@ during my travel time when I have to go to work. One of the language I master th
 is Python, so this is why I'm looking to do it with it :). But if this reveal to be
 easy enough, I'll look to do it in Rust also !
 
+## How to run the code ?
+
+You should be able to run the code like so :
+
+```bash
+  python file.py
+```
+
+No parameters should be necessary. If something is necessary as an input, a README
+file on how-to should be in the folder.
+
+! WARNING ! The code is only Python 3 compliant. Python 2 is old and dead, let him
+in peace please.
+
 ## Completion
 
 - [ ] Day 1
