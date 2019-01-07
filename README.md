@@ -30,9 +30,9 @@ in peace please.
 
 ## Completion
 
-- [ ] Day 1
-  - [ ] Part 1
-  - [ ] Part 2
+- [x] Day 1
+  - [x] Step 1
+  - [x] Step 2
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
