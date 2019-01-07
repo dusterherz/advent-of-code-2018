@@ -1,10 +1,10 @@
 def main():
-    base_number = 0
+    frequency_number = 0
     input_file = open('input', 'r')
     for line in input_file:
         number = int(line)
-        base_number += number
-    print(base_number)
+        frequency_number += number
+    print(frequency_number)
 
 
 if __name__ == "__main__":
