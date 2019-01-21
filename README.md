@@ -33,7 +33,9 @@ in peace please.
 - [x] Day 1
   - [x] Step 1
   - [x] Step 2
-- [ ] Day 2
+- [X] Day 2
+  - [x] Step 1
+  - [x] Step 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
